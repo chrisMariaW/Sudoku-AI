@@ -93,6 +93,4 @@ The notebook includes validation checks to confirm that:
 
 The included notebook output reports that the validation tests passed for the provided puzzle.
 
-## Project Status
 
-Academic project demonstrating predicate-calculus-based constraint modelling, SMT solving, and an interactive Sudoku game. The provided notebook is the primary runnable version.
